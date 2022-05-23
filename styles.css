@@ -417,10 +417,9 @@ footer{
 	margin-top: 50px;
 }
 .find{
-	margin-left: 3%;
-	margin-right: 5% ;
-	width: 350px;
-	height: 350px;
+	margin-left: 15px;
+	width: 330px;
+	height: 330px;
 	background-image: url(images/bg-pattern-how-we-work-mobile.svg);
 }
 .find h1{
