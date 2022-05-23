@@ -306,8 +306,7 @@ footer{
 		background-image: url(images/bg-pattern-mobile-nav.svg);
 		background-repeat: no-repeat;
 		background-position: bottom;
-		overflow-x: hidden;
-
+		
 
 	}
 	.nav-bar[data-visible="true"]{
