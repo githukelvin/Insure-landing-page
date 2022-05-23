@@ -299,13 +299,14 @@ footer{
 		justify-content: center;
 		align-items: center;
 		z-index: 1;
-		transform: translateX(400px);
+		transform: translateX(-400px);
 		position: absolute;
 		top: 80px;
 		left: 0;
 		background-image: url(images/bg-pattern-mobile-nav.svg);
 		background-repeat: no-repeat;
 		background-position: bottom;
+		overflow-x: hidden;
 
 
 	}
